@@ -57,7 +57,7 @@ Some of the major insights from exploratory data analysis are as follows:
 - Better support services to retain customers
 - Target high-risk customers with special offers
 
-## 🛠️ Tech Stack 
+## Tech Stack 
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
