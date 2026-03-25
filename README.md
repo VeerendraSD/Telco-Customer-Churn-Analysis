@@ -57,6 +57,11 @@ Some of the major insights from exploratory data analysis are as follows:
 - Better support services to retain customers
 - Target high-risk customers with special offers
 
-## 🛠️ Tech Stack - Python - Pandas, NumPy - Matplotlib, Seaborn - Scikit-learn
+## 🛠️ Tech Stack 
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
 
-## 🚀 Conclusion This project highlights the importance of using data insights and machine learning to understand customer behavior and reduce churn for a business.
+## Conclusion 
+This project highlights the importance of using data insights and machine learning to understand customer behavior and reduce churn for a business.
